@@ -1,0 +1,30 @@
+.corpo {
+	width: 100%;
+	height: 500px;
+}
+
+.titulo {
+	padding-top: 2%;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.tabela {
+	width: 100%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+.aviso {
+	text-align: center;
+	margin: auto;
+	padding: 2%;
+}
+
+.rodape {
+	width: 100%;
+	height: 40px;
+	bottom: 0;
+	background-color: #f8f9fa;
+	text-align: center;
+}
